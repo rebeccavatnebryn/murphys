@@ -1,0 +1,28 @@
+.ui.borderless.topmenu.menu {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.grad-background {
+  background-image: url("http://murphyshawaii.com/media/2014/04/murphys-front.jpg") ;
+  height:  500px;
+}
+
+p{
+  color: #ffffff;
+  padding: 50px;
+  font-size: 16px;
+}
+
+.column{
+  margin-top: 150px;
+}
+
+
+
+
+
+
+
+
+
+
